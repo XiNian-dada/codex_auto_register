@@ -11,7 +11,6 @@
 - 将注册codex邮箱服务从原先方案替换为 DuckMail API
 - 保留并扩展 Codex 协议 OAuth 流程
 - 输出 CLIProxyAPI v6 可识别的 Codex auth files
-- 增加更适合公开仓库的示例配置与忽略规则
 
 ## 包含内容
 
