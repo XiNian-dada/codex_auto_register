@@ -11,6 +11,7 @@
 - 将注册codex邮箱服务从原先方案替换为 DuckMail API
 - 保留并扩展 Codex 协议 OAuth 流程
 - 输出 CLIProxyAPI v6 可识别的 Codex auth files
+- [management.html](https://github.com/router-for-me/Cli-Proxy-API-Management-Center/releases)
 
 ## 包含内容
 
